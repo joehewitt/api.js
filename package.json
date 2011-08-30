@@ -1,0 +1,23 @@
+{
+  "name": "apijs",
+  "description": "Framework for HTTP REST APIs",
+  "homepage": "http://github.com/joehewitt/apijs",
+  "repository": {
+      "type": "git",
+      "url" : "http://github.com/joehewitt/apijs.git"
+  },
+  "keywords": ["http", "rest", "api"],
+  "author": "Joe Hewitt <joe@joehewitt.com>",
+  "contributors": [],
+  "dependencies": {
+      "async": "",
+      "dandy": "",
+      "express": "",
+      "underscore": "",
+      "vows": ">=0.5.4"
+  },
+  "version": "0.0.1",
+  "main": "./lib/apijs",
+  "directories": { "test": "./test" },
+  "engines": { "node": ">=0.4.0" }
+}
