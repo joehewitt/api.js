@@ -16,7 +16,7 @@
       "underscore": "",
       "vows": ">=0.5.4"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/apijs",
   "directories": { "test": "./test" },
   "engines": { "node": ">=0.4.0" }
