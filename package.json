@@ -1,6 +1,7 @@
 {
   "name": "api.js",
   "description": "Framework for HTTP REST APIs",
+  "version": "0.0.2",
   "homepage": "http://github.com/joehewitt/api.js",
   "repository": {
       "type": "git",
@@ -16,7 +17,6 @@
       "underscore": "",
       "vows": ">=0.5.4"
   },
-  "version": "0.0.1",
   "main": "./lib/apijs",
   "directories": { "test": "./test" },
   "engines": { "node": ">=0.4.0" }
