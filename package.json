@@ -1,7 +1,7 @@
 {
   "name": "api.js",
   "description": "Framework for HTTP REST APIs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "http://github.com/joehewitt/api.js",
   "repository": {
       "type": "git",
