@@ -1,23 +1,33 @@
 {
   "name": "api.js",
   "description": "Framework for HTTP REST APIs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "http://github.com/joehewitt/api.js",
   "repository": {
-      "type": "git",
-      "url" : "http://github.com/joehewitt/api.js.git"
+    "type": "git",
+    "url": "git://github.com/joehewitt/api.js.git"
   },
-  "keywords": ["http", "rest", "api"],
+  "keywords": [
+    "http",
+    "rest",
+    "api"
+  ],
   "author": "Joe Hewitt <joe@joehewitt.com>",
   "contributors": [],
   "dependencies": {
-      "async": "",
-      "dandy": "",
-      "express": "",
-      "underscore": "",
-      "vows": ">=0.5.4"
+    "async": "",
+    "dandy": "",
+    "express": "",
+    "underscore": "",
+    "vows": ">=0.5.4"
   },
   "main": "./lib/apijs",
-  "directories": { "test": "./test" },
-  "engines": { "node": ">=0.4.0" }
+  "directories": {
+    "test": "./test"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
 }
